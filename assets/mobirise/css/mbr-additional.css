@@ -2024,6 +2024,29 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-sfn5gztE4M {
+  background: #ffffff;
+}
+.cid-sfn5gztE4M .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-sfn5gztE4M .mbr-figure {
+  margin: 0 auto;
+}
+.cid-sfn5gztE4M figcaption {
+  position: relative;
+}
+.cid-sfn5gztE4M figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-sfn5gztE4M .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rADf45sm3x {
   padding-top: 0px;
   padding-bottom: 30px;
