@@ -3306,6 +3306,9 @@ section.lazy-placeholder:after {
 .cid-rAdemuWBM4 .mbr-text {
   color: #232323;
 }
+.cid-rAdemuWBM4 .mbr-text DIV {
+  text-align: left;
+}
 .cid-qv1frvgcz3 .navbar {
   padding: .5rem 0;
   background: #ffffff;
